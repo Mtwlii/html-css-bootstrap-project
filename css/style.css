@@ -1,0 +1,16 @@
+.menu{
+	
+	width: 1160px;
+	height: 50px;
+	margin: auto;
+	
+	
+}
+
+
+
+li{
+	display: inline-block;
+	padding-top: 12px;
+}
+
